@@ -7,4 +7,5 @@ Silahkan gunakan format berikut:
 
 Berikut daftar Volunter yang diterima:  
 
-* Oon Arfiandwi [00.or.id](https://oo.or.id).
+* Oon Arfiandwi [00.or.id](https://oo.or.id).  
+* Akbar Eka Pranajaya, [Linkedin](https://www.linkedin.com/in/akbar-eka-pranajaya-963b901b9/).
